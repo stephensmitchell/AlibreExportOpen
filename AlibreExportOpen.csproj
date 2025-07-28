@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <RootNamespace>AlibreExportOpen</RootNamespace>
     <AssemblyName>AlibreExportOpen</AssemblyName>
-    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkVersion>481</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
@@ -35,16 +35,13 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="alibre">
-      <HintPath>C:\Program Files\Alibre Design 25.0.1.25037\Program\alibre.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>C:\Program Files\Alibre Design 28.1.1.28227\Program\alibre.dll</HintPath>
     </Reference>
     <Reference Include="AlibreAddOn">
-      <HintPath>C:\Program Files\Alibre Design 25.0.1.25037\Program\AlibreAddOn.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>C:\Program Files\Alibre Design 28.1.1.28227\Program\AlibreAddOn.dll</HintPath>
     </Reference>
     <Reference Include="AlibreX">
-      <HintPath>C:\Program Files\Alibre Design 25.0.1.25037\Program\AlibreX.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>C:\Program Files\Alibre Design 28.1.1.28227\Program\AlibreX.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
